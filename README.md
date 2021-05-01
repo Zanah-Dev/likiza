@@ -1,1 +1,2 @@
-# likiza
+# likiza - leave managment system
+
