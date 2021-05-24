@@ -1,10 +1,7 @@
 <?php
 /**
  * This view is included into all desktop full views. It contains HTML and CSS definitions.
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
- * @license    http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link       https://github.com/bbalet/jorani
- * @since      0.1.0
+ 
  */
 ?><!DOCTYPE html>
 <html lang="<?php echo $language_code;?>">
@@ -12,9 +9,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta charset="utf-8">
-    <title><?php echo $title ?> - Jorani</title>
-    <meta description="Jorani a free and open source leave management system. Workflow of approval; e-mail notifications; calendars; reports; export to Excel and more.">
-    <meta name="version" content="0.6.0">
+    <title><?php echo $title ?> Likiza </title>
+    <meta description="Likiza HR system for leave workflow managment.">
+    <meta name="version" content="1.0.0">
     <link href="<?php echo base_url();?>assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <link href="<?php echo base_url();?>assets/bootstrap/css/bootstrap-responsive.min.css" rel="stylesheet">
     <link rel="stylesheet" href="<?php echo base_url();?>assets/dist/legacy.css">

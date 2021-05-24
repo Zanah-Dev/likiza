@@ -3,10 +3,10 @@
  * This Class contains all the business logic and the persistence layer for the
  * managing lists of employees. Each user can create and manage its own lists of
  * employees.
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license    http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link       https://github.com/bbalet/jorani
- * @since      0.6.0
+ * @link       https://github.com/BotaDiana/likiza
+ * @since      1.0.0
  */
 
 if (!defined('BASEPATH')) { exit('No direct script access allowed'); }

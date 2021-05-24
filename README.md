@@ -1,17 +1,13 @@
-<img src="https://raw.githubusercontent.com/bbalet/jorani/master/assets/images/logo_simple.png" width="80" align="left" hspace="10">
 
-Jorani is a Leave Management System developed in PHP/MySQL under an AGPL v3 licence.
-Jorani is designed to provide simple leave and overtime request workflows for small organizations.
+
 
 ## Informations / getting help
 
-* Official website : https://jorani.org/
-* User group : https://groups.google.com/forum/?hl=en#!forum/jorani
+
 
 ## Status
 
-This project is stable and ready for production. An online demo is available here : https://demo.jorani.org/
-Use bbalet / bbalet for login / password.
+This project is stable and ready for production. 
 
 ## Features
 
@@ -51,10 +47,7 @@ Use bbalet / bbalet for login / password.
 
 ## Contribute
 
-* Help us to translate the software in your language https://www.transifex.com/projects/p/jorani
-* Suggest ideas, declare bugs with Github's issue tracking system or Google group.
-* [Read the TODO list](TODO.md) if you want to know what are the priorities.
-* Join the developers chat on gitter [![ https://gitter.im/bbalet/jorani](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bbalet/jorani?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 ## Credits
 
@@ -65,7 +58,7 @@ Use bbalet / bbalet for login / password.
 
 ### Third party libraries and components
 
-We thank the following open source projects for the components used by Jorani:
+We thank the following open source projects for the components used by Likiza:
 
 #### Backend
 

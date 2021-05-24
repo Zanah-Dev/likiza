@@ -3,7 +3,7 @@
  * Email template.You can change the content of this template
  * @copyright  Copyright (c) 2014-2015 Benjamin BALET
  * @license    http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link       https://github.com/bbalet/jorani
+ * @link       https://github.com/BotaDiana/likiza
  * @since      0.4.5
  */
 ?>

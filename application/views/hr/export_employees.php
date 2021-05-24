@@ -2,9 +2,9 @@
 /**
  * This view builds a Spreadsheet file containing the list of employees (from HR menu).
  * It differs from the Admin menu, because it doesn't export technical information
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license      http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link            https://github.com/bbalet/jorani
+ * @link            https://github.com/BotaDiana/likiza
  * @since         0.2.0
  */
 

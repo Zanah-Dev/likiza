@@ -3,9 +3,9 @@
  * Utility script that finds missing keys in CI's i18n PHP arrays
  *
  * Usage example: php missing.php > list_missing.txt
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license    http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link       https://github.com/bbalet/jorani
+ * @link       https://github.com/BotaDiana/likiza
  * @since      0.6.6
  */
 

@@ -5,10 +5,10 @@
  * docuementation of PHP OAuth2 server:
  * http://bshaffer.github.io/oauth2-server-php-docs/cookbook/
  * 
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license    http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link       https://github.com/bbalet/jorani
- * @since      0.6.0
+ * @link       https://github.com/BotaDiana/likiza
+ * @since      1.0.0
  */
 
 if (!defined('BASEPATH')) { exit('No direct script access allowed'); }

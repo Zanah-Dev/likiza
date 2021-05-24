@@ -2,9 +2,9 @@
 /**
  * This view allows a manager to designate a list of employees as delegates.
  * A user being the delegate of a manager can validate leave requests sumitted to this manager.
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license      http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link            https://github.com/bbalet/jorani
+ * @link            https://github.com/BotaDiana/likiza
  * @since         0.4.0
  */
 ?>

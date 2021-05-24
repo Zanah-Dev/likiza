@@ -3,9 +3,9 @@
  * This view displays the not found error when the broken link is related to a wrong business object.
  * For example, when the user tries to display a leave request that has been deleted.
  * In opposition to a missing route, we should display the menu and footer.
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license      http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link            https://github.com/bbalet/jorani
+ * @link            https://github.com/BotaDiana/likiza
  * @since         0.4.4
  */
 ?>

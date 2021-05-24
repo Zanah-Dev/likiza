@@ -3,7 +3,7 @@
 -- You may need this file if youhave forgotten to backup routines
 --
 -- @license    http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
--- @copyright  Copyright (c) 2014-2019 Benjamin BALET
+-- @copyright  Copyright (c) 2021 DBota
 
 DROP FUNCTION IF EXISTS `GetAncestry`;
 DELIMITER $$

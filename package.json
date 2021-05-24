@@ -1,10 +1,10 @@
 {
-  "name": "jorani",
+  "name": "Likiza",
   "version": "1.0.0",
-  "description": "Jorani is a free and open source leave management system",
+  "description": "Likiza is a HR leave workflow managment system",
   "main": "index.js",
-  "repository": "https://github.com/bbalet/jorani.git",
-  "author": "bbalet <benjamin.balet@gmail.com>",
+  "repository": "https://github.com/BotaDiana/likiza.git",
+  "author": "Dbota",
   "license": "AGPL-3.0-or-later",
   "dependencies": {
     "@mdi/font": "^5.7.55",

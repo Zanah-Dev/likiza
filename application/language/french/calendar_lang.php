@@ -1,10 +1,10 @@
 <?php
 /**
  * Translation file
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license      http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link            https://github.com/bbalet/jorani
- * @since         0.1.0
+ * @link            https://github.com/BotaDiana/likiza
+ * @since         1.0.0
  */
 
 $lang['calendar_year_title'] = 'Calendrier annuel';

@@ -1,10 +1,10 @@
 <?php
 /**
  * This view allows users to view a leave request in read-only mode
- * @copyright  Copyright (c) 2014-2019 Benjamin BALET
+ * @copyright  Copyright (c) 2021 DBota
  * @license      http://opensource.org/licenses/AGPL-3.0 AGPL-3.0
- * @link            https://github.com/bbalet/jorani
- * @since         0.1.0
+ * @link            https://github.com/BotaDiana/likiza
+ * @since         1.0.0
  */
 ?>
 <h2><?php echo lang('leaves_view_title');?><?php echo $leave['id']; if ($name != "") {?>&nbsp;<span class="muted">(<?php echo $name; ?>)</span><?php } ?></h2>
