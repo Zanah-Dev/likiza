@@ -1,6 +1,6 @@
 <h1>Urlaubs Management System</h1>
 
-<p>Willkommen bei Jorani. Als Angestellter können Sie :</p>
+<p>Willkommen bei Likiza. Als Angestellter können Sie :</p>
 <ul>
     <li>ihre <a href="<?php echo base_url();?>leaves/counters">Urlaubsstatistik</a> anzeigen lassen.</li>
     <li>eine <a href="<?php echo base_url();?>leaves">Liste der übermittlelten Abwesenheitsanfragen</a> sehen.</li>

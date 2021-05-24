@@ -1,6 +1,6 @@
 <h1>Sistema de Gestión de permisos y horas extras</h1>
 
-<p>Bienvenido a Jorani. Si usted es un empleado, usted podra:</p>
+<p>Bienvenido a Likiza. Si usted es un empleado, usted podra:</p>
 <ul>
     <li>Consulte su <a href="<?php echo base_url();?>leaves/counters">balance de permisos</a>.</li>
     <li>Ver el <a href="<?php echo base_url();?>leaves">listado de solicitudes de permisos</a>.</li>

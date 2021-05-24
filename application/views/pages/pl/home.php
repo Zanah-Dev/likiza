@@ -1,6 +1,6 @@
 <h1>Leave and Overtime Management System</h1>
 
-<p>Witamy w Jorani. Jeżeli jesteś pracownikiem, możesz teraz :</p>
+<p>Witamy w Likiza. Jeżeli jesteś pracownikiem, możesz teraz :</p>
 <ul>
     <li>Sprawdzić <a href="<?php echo base_url();?>leaves/counters">balans urlopu</a>.</li>
     <li>Zobaczyć <a href="<?php echo base_url();?>leaves">listę próśb o urlop które zgłosiłeś</a>.</li>

@@ -1,6 +1,6 @@
 <h1>Opustit Systém Přesčasů</h1>
 
-<p>Vítejte v Jorani. Pokud jste zaměstnanec, nyní můžete:</p>
+<p>Vítejte v Likiza. Pokud jste zaměstnanec, nyní můžete:</p>
 <ul>
     <li>Zobrazit váš <a href="<?php echo base_url();?>leaves/counters">zůstatek dovolené</a>.</li>
     <li>Zobrazit <a href="<?php echo base_url();?>leaves">seznam žádosti o dovolené, které jste již zadal(a)</a>.</li>

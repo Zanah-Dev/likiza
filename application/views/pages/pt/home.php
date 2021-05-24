@@ -1,6 +1,6 @@
 <h1>Sistema de gestão de férias e licenças</h1>
 
-<p>Bem vindo a Jorani. Se é um colaborador, pode:</p>
+<p>Bem vindo a Likiza. Se é um colaborador, pode:</p>
 <ul>
     <li>Consulte o seu <a href="<?php echo base_url();?>leaves/counters">saldo de férias</a>.</li>
     <li>Consulte a <a href="<?php echo base_url();?>leaves">lista de pedidos de férias que submeteu</a>.</li>

@@ -1,6 +1,6 @@
 <h1>Afwezigheid en overuren registratie systeem</h1>
 
-<p>Welkom bij Jorani. Als u een werknemer bent kunt u:</p>
+<p>Welkom bij Likiza. Als u een werknemer bent kunt u:</p>
 <ul>
     <li>uw <a href="<?php echo base_url();?>leaves/counters">vakantiedagen saldo</a> zien.</li>
     <li>Het <a href="<?php echo base_url();?>leaves">overzicht</a> van door U ingediende afwezigheidsmeldingen.</li>

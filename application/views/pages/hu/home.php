@@ -1,6 +1,6 @@
 <h1>Szabadság és Túlóra kezelő rendszer</h1>
 
-<p>Üdvözöl a Jorani. Ha munkavállaló vagy, most már lehetőséged van :</p>
+<p>Üdvözöl a Likiza. Ha munkavállaló vagy, most már lehetőséged van :</p>
 <ul>
     <li>Megtekintheted a <a href="<?php echo base_url();?>leaves/counters">szabadnapok számát</a>.</li>
     <li>Megtekintheted a <a href="<?php echo base_url();?>leaves">beküldött szabadság kérelmeid listáját</a>.</li>

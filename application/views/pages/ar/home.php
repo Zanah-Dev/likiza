@@ -1,18 +1,20 @@
-<h1>نظام إدارة الإجازات والساعات الإضافية</h1>
+<h1>Likiza Leave and Overtime Management System</h1>
 
-<p>مرحباً بكم في نظام جوراني. إذا كنت موظفاً، يمكنك الان:</p>
+<p>Welcome to Likiza.</p>
+
+<p>If you are an employee, you could now:</p>
 <ul>
-    <li><a href="<?php echo base_url();?>leaves/counters">مراجعة رصيد الإجازات.</a></li>
-    <li><a href="<?php echo base_url();?>leaves">مراجعة قائمة طلبات الإجازات المرسلة من قبلك.</a></li>
-    <li><a href="<?php echo base_url();?>leaves/create">طلب اجازة جديدة.</a></li>
+    <li>See your <a href="<?php echo base_url();?>leaves/counters">leave balance</a>.</li>
+    <li>See the <a href="<?php echo base_url();?>leaves">list of the leave requests you have submitted</a>.</li>
+    <li>Request a <a href="<?php echo base_url();?>leaves/create">new leave</a>.</li>
 </ul>
 
 <br />
 
-<p>اذا كنت المدير على موظف (أو موظفين)، يمكنك الان:</p>
+<p>If you are the line manager of other employee(s), you could now:</p>
 <ul>
-    <li><a href="<?php echo base_url();?>requests">مراجعة طلبات إجازات مقدمة اليك.</a></li>
+    <li>Validate <a href="<?php echo base_url();?>requests">leave requests submitted to you</a>.</li>
     <?php if ($this->config->item('disable_overtime') == FALSE) { ?>
-    <li><a href="<?php echo base_url();?>overtime">مراجعة طلبات ساعات إضافية مقدمة اليك.</a></li>
+    <li>Validate <a href="<?php echo base_url();?>overtime">overtime requests submitted to you</a>.</li>
     <?php } ?>
 </ul>

@@ -1,6 +1,6 @@
 <h1>Systém na správu dovoleniek, nadčasov a iných typov pracovného voľna.</h1>
 
-<p>Vitajte v Jorani (<i class="mdi mdi-help-circle-outline"></i>)</p>
+<p>Vitajte v Likiza (<i class="mdi mdi-help-circle-outline"></i>)</p>
 
 <p>Ak ste zamestnanec, teraz môžete:</p>
 <ul>

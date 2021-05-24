@@ -1,6 +1,6 @@
 <h1>Hệ thống quản lý nghỉ phép và làm thêm giờ</h1>
 
-<p>Chào mừng đến với Jorani. Nếu bạn là nhân viên, ngay bây giờ bạn có thể:</p>
+<p>Chào mừng đến với Likiza. Nếu bạn là nhân viên, ngay bây giờ bạn có thể:</p>
 <ul>
     <li>Xem <a href="<?php echo base_url();?>leaves/counters">số ngày phép còn lại</a> của bạn.</li>
     <li>Xem <a href="<?php echo base_url();?>leaves">danh sách đề nghị nghỉ phép bạn đã gửi</a>.</li>

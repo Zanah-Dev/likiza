@@ -1,6 +1,6 @@
 <h1>Sistem de gestionare a timpului liber și a orelor suplimentare</h1>
 
-<p>Bine ai venit la Jorani. Dacă ești angajat, ai putea acum să:</p>
+<p>Bine ai venit la Likiza. Dacă ești angajat, ai putea acum să:</p>
 <ul>
     <li>Vezi <a href="<?php echo base_url();?>leaves/counters">evidența plecărilor</a>.</li>
     <li>Vezi <a href="<?php echo base_url();?>leaves">lista solicitărilor de timp liber trimise</a>.</li>

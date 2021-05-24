@@ -18,10 +18,10 @@
         </div>
         <div class="span4 pull-right">
               <?php switch ($language_code){
-                  case 'fr' : echo '<a class="anchor" href="https://fr.jorani.org/" target="_blank">Jorani</a>'; break;
-                  default : echo '<a class="anchor" href="https://jorani.org/" target="_blank">Jorani</a>'; break;
+                  case 'fr' : echo '<a class="anchor" href="" target="_blank">DBota</a>'; break;
+                  default : echo '<a class="anchor" href="" target="_blank">DBota</a>'; break;
               } ?>
-          &nbsp;v<?php echo $GLOBALS['versionOfJorani'];?>&nbsp;&copy;2014-2019 Benjamin BALET
+          &nbsp;v<?php echo $GLOBALS['versionOfJorani'];?>&nbsp;&copy;2021 Diana Bota // Project
         </div>
     </div>
     </div>
